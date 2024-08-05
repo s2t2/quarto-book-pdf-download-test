@@ -12,7 +12,7 @@ book:
     - summary.qmd
     - references.qmd
   sidebar:
-    logo: JPEG_example_flower.jpeg
+    logo: images/JPEG_example_flower.jpeg
 
 bibliography: references.bib
 
