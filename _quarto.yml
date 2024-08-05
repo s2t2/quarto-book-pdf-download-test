@@ -11,8 +11,8 @@ book:
     - intro.qmd
     - summary.qmd
     - references.qmd
-#  sidebar:
-#    logo: images/JPEG_example_flower.jpeg
+  sidebar:
+    logo: images/JPEG_example_flower.jpeg
 
 bibliography: references.bib
 
